@@ -1,6 +1,7 @@
 # center-exam
 how long will you be able to study for exam which the most important to last high school students?
 (高3にとって一番大事な試験まであと何日勉強できるとおもう？）
+
 hello, new year.
 （あけましておめでとう）
 the season which the most most inportant to last high school students.
